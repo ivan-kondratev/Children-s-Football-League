@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-//добавление строки
+
 namespace Children_sFootballLeague
 {
     public partial class Form1 : Form
